@@ -31,11 +31,11 @@ Previously a Sonar Systems Technician in the Israeli Navy. Currently mentoring h
 ### [Chief of Staff — Personal AI Assistant](https://github.com/RonVais25/chief-of-staff-bot)
 A self-hosted Telegram bot powered by Claude that acts as a personal AI chief of staff.
 
-- 🧠 Persistent conversation memory across sessions
-- 📧 Hourly Gmail triage with auto-drafted replies in your writing voice
-- 📅 Meeting prep briefs sent 15 min before each calendar event
-- 🎙️ Voice in/out via faster-whisper + piper-tts
-- ⚡ Multi-model routing: Sonnet · Opus · Haiku
+-  Persistent conversation memory across sessions
+-  Hourly Gmail triage with auto-drafted replies in your writing voice
+-  Meeting prep briefs sent 15 min before each calendar event
+-  Voice in/out via faster-whisper + piper-tts
+-  Multi-model routing: Sonnet · Opus · Haiku
 
 > `Python` · `Anthropic SDK` · `SQLAlchemy` · `APScheduler` · `Docker`
 
