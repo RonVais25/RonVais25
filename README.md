@@ -28,7 +28,7 @@ Previously a Sonar Systems Technician in the Israeli Navy. Currently mentoring h
 
 ## 🚀 Featured Project
 
-### [Chief of Staff — Personal AI Assistant](SOON)
+### [Chief of Staff — Personal AI Assistant](https://github.com/RonVais25/chief-of-staff-bot)
 A self-hosted Telegram bot powered by Claude that acts as a personal AI chief of staff.
 
 - 🧠 Persistent conversation memory across sessions
